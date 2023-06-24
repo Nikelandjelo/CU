@@ -1,0 +1,33 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+#particles-js
+    {
+        background:#333333;
+        height: auto;
+    }
+
+#tm{
+    background:#9ACD32;
+    opacity:0.95;
+    padding:2em;
+    position:absolute;
+    right: 15vh;
+    left: 15vh;
+    top: 20vh;
+}
+
+#hm{
+    background:#9ACD32;
+    opacity:0.97;
+    padding:2em;
+    position:absolute;
+    right: 15vh;
+    left: 15vh;
+}
